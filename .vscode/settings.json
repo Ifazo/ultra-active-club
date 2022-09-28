@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "*.extension": "html"
+  },
+  "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+  "editor.codeActionsOnSave": {},
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
