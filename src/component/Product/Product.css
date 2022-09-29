@@ -1,0 +1,9 @@
+.product {
+    display: block;
+    background-color: lightgray;
+}
+
+.product img {
+    width: 100px;
+    height: auto;
+}
