@@ -28,7 +28,7 @@ const Cart = ({cart}) => {
             <div>
                 <h2>Exercise Details</h2>
                 <h6>Exercise Time: {total} seconds</h6>
-                <h6>Break Time: {time}</h6>
+                <h6>Break Time: {time} seconds</h6>
             </div>
             <button>Activity Completed</button>
         </div>
