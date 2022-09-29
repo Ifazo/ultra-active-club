@@ -8,10 +8,10 @@ const Product = ({product, handleClick}) => {
     return (
         <div className='product'>
             <img src={link} alt="img" />
-            <h3>Title: {tittle}</h3>
-            <h6>Time: {time}</h6>
-            <p>Details: {details}</p>
-            <button onClick={() => handleClick(product)}>Add to Cart</button>
+            <h2>Title: {tittle}</h2>
+            <h4>Time: {time}</h4>
+            <h6>Details: {details}</h6>
+            <button onClick={() => handleClick(product)}>Add to List</button>
         </div>
     );
 };

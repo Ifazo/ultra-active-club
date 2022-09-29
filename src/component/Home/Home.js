@@ -10,7 +10,7 @@ const Home = () => {
     const [cart, setCart] = useState([])
 
     const handleClick = (product) => {
-        // console.log(product);
+        console.log(product);
         const newCart = [...cart, product];
         setCart(newCart);
         addToDb(product.id);
@@ -24,14 +24,18 @@ const Home = () => {
 
     useEffect(() => {
         const storedCart = getStoredCart();
-        // console.log(storedCart);
-        // const savedCart = [];
+        console.log(storedCart);
+        const savedCart = [];
         for (const id in storedCart) {
-                console.log(id);
-                // const addedProduct = products.find(product => product.id === id);
-                // savedCart.push(addedProduct);
+            const addedProduct = products.find(product => product.id === id);
+            if(addedProduct){
+                const quantity = storedCart[id];
+                addedProduct.quantity = quantity;
+            console.log(addedProduct);
+            savedCart.push(addedProduct);
+                }
             }
-            // setCart(savedCart);
+            setCart(savedCart);
         }, [products])
 
     return (
