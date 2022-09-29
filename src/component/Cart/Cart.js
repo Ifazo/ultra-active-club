@@ -3,6 +3,14 @@ import './Cart.css'
 
 const Cart = ({cart}) => {
     // console.log(cart);
+
+    let total = 0;
+    let time = 0;
+    for (const product of cart) {
+        total = total + product.time;
+        time = product.time;
+    }
+
     return (
         <div className='cart-container'>
             <img src="" alt="profile" />
@@ -19,10 +27,8 @@ const Cart = ({cart}) => {
             </div>
             <div>
                 <h2>Exercise Details</h2>
-                <h6>Exercise Time</h6>
-                <input type="text" />
-                <h6>Break Time</h6>
-                <input type="text" />
+                <h6>Exercise Time: {total} seconds</h6>
+                <h6>Break Time: {time}</h6>
             </div>
             <button>Activity Completed</button>
         </div>

@@ -4,7 +4,7 @@
         "link": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c3BvcnR8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
         "tittle": "Leanne Graham",
         "age": "18",
-        "time": "45s",
+        "time": 30,
         "details": "Exercise is a body activity that enhances or maintains physical fitness and overall health and wellness. Running in water (aquarunning). Weight training."
         },
     {
@@ -12,7 +12,7 @@
         "link": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c3BvcnR8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
         "tittle": "Leanne Graham",
         "age": "18",
-        "time": "45s",
+        "time": 45,
         "details": "Exercise is a body activity that enhances or maintains physical fitness and overall health and wellness. Running in water (aquarunning). Weight training."
         },
     {
@@ -20,7 +20,7 @@
         "link": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c3BvcnR8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
         "tittle": "Leanne Graham",
         "age": "18",
-        "time": "45s",
+        "time": 60,
         "details": "Exercise is a body activity that enhances or maintains physical fitness and overall health and wellness. Running in water (aquarunning). Weight training."
         },
     {
@@ -28,7 +28,7 @@
         "link": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c3BvcnR8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
         "tittle": "Leanne Graham",
         "age": "18",
-        "time": "45s",
+        "time": 90,
         "details": "Exercise is a body activity that enhances or maintains physical fitness and overall health and wellness. Running in water (aquarunning). Weight training."
         },
     {
@@ -36,7 +36,7 @@
         "link": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c3BvcnR8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
         "tittle": "Leanne Graham",
         "age": "18",
-        "time": "45s",
+        "time": 120,
         "details": "Exercise is a body activity that enhances or maintains physical fitness and overall health and wellness. Running in water (aquarunning). Weight training."
         },
     {
@@ -44,7 +44,7 @@
         "link": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c3BvcnR8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
         "tittle": "Leanne Graham",
         "age": "18",
-        "time": "45s",
+        "time": 150,
         "details": "Exercise is a body activity that enhances or maintains physical fitness and overall health and wellness. Running in water (aquarunning). Weight training."
         },
     {
@@ -52,7 +52,7 @@
         "link": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c3BvcnR8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
         "tittle": "Leanne Graham",
         "age": "18",
-        "time": "45s",
+        "time": 180,
         "details": "Exercise is a body activity that enhances or maintains physical fitness and overall health and wellness. Running in water (aquarunning). Weight training."
         },
     {
@@ -60,23 +60,23 @@
         "link": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c3BvcnR8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
         "tittle": "Leanne Graham",
         "age": "18",
-        "time": "45s",
+        "time": 210,
         "details": "Exercise is a body activity that enhances or maintains physical fitness and overall health and wellness. Running in water (aquarunning). Weight training."
         },
     {
         "id": 9,
         "link": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c3BvcnR8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
         "tittle": "Leanne Graham",
-        "age": "18",
-        "time": "45s",
+        "age": 25,
+        "time": 240,
         "details": "Exercise is a body activity that enhances or maintains physical fitness and overall health and wellness. Running in water (aquarunning). Weight training."
         },
     {
         "id": 10,
         "link": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c3BvcnR8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
         "tittle": "Leanne Graham",
-        "age": "18",
-        "time": "45s",
+        "age": 27,
+        "time": 270,
         "details": "Exercise is a body activity that enhances or maintains physical fitness and overall health and wellness. Running in water (aquarunning). Weight training."
         }
 ]
