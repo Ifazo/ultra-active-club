@@ -25,17 +25,18 @@ const Home = () => {
     useEffect(() => {
         const storedCart = getStoredCart();
         // console.log(storedCart);
+        // const savedCart = [];
         for (const id in storedCart) {
-                // console.log(id);
-                const addedProduct = products.find(product => product.id === id);
-                console.log(addedProduct);
+                console.log(id);
+                // const addedProduct = products.find(product => product.id === id);
+                // savedCart.push(addedProduct);
             }
-        }, [])
+            // setCart(savedCart);
+        }, [products])
 
     return (
         <div className='home'>
             <div className='card-container'>
-            <h1>FITNESS CLUB</h1>
             <div className='products'>
             {
                 products.map(product => <Product product={product} 
@@ -45,7 +46,7 @@ const Home = () => {
             }
             </div>
             </div>
-            <div>
+            <div className='cart-container'>
             <Cart cart={cart}></Cart>
             </div>
         </div>

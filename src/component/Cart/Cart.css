@@ -1,8 +1,5 @@
 .cart-container {
     background-color: lightgray;
+    margin-top: 20px;
 }
 
-span {
-    border: 1px solid black;
-    border-radius: 3px;
-}
